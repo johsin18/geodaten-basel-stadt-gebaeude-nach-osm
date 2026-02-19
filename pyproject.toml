@@ -1,0 +1,13 @@
+[project]
+name = "mapbs-gebaeude"
+version = "0.1.0"
+requires-python = ">=3.8"
+dependencies = [
+    "playwright",
+    "pyshp",
+    "pyproj",
+    "pyyaml",
+]
+
+[tool.uv]
+dev-dependencies = []

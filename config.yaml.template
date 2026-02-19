@@ -1,0 +1,6 @@
+email: user@provider.com
+
+imap:
+  host: mx.provider.com
+  username: user
+  password: ""  # put in quotes
